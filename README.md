@@ -17,3 +17,5 @@
 - A Computer Science Undergraduate Student. 
 - CTO of an awesome education startup.
 - Always looking for new opportunities.
+
+Also, check out my [website](http://boriskurikhin.github.io/)!
