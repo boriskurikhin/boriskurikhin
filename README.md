@@ -25,7 +25,7 @@
 ### I am Boris Skurikhin
 - A Full Stack Developer.
 - A Computer Science Undergraduate Student. 
-- CTO of an awesome education startup.
+- Co-Founder & CTO of an awesome startup.
 - Always looking for new opportunities.
 
 Also, check out my [website](http://boriskurikhin.github.io/)!
