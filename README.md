@@ -1,5 +1,3 @@
-## Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 <table>
   <tr>
     <th>
@@ -22,10 +20,9 @@
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/3fc4688dc266777821d0849c28d98e74/tenor.gif?itemid=5518465" />
 
-### I am Boris Skurikhin
-- A Full Stack Developer.
-- A Computer Science Undergraduate Student. 
-- Co-Founder & CTO of an awesome startup.
-- Always looking for new opportunities.
+### Boris Skurikhin
+- I write good codes, also study CS
+- Interest in cloud computing
+- CTO at a cool startup
 
 Also, check out my [website](http://boriskurikhin.github.io/)!
