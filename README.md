@@ -22,7 +22,7 @@
 
 ### Boris Skurikhin
 - I write good codes, also study CS
-- Interest in cloud computing
+- Interest in backend & algos
 - CTO at a cool startup
 
 Also, check out my [website](http://boriskurikhin.github.io/)!
