@@ -2,12 +2,7 @@
   <tr>
     <th>
       <a href="https://www.linkedin.com/in/boris-skurikhin/" >
-        <img align="center" alt="Boris's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/boriskurikhin">
-        <img align="center" alt="Boris's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+        <img align="center" alt="Boris's Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
       </a>
     </th>
     <th>
