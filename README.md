@@ -2,12 +2,12 @@
   <tr>
     <th>
       <a href="https://www.linkedin.com/in/boris-skurikhin/" >
-        <img align="center" alt="Boris's Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+        <img align="center" alt="Boris's Linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
       </a>
     </th>
     <th>
       <a href="https://dmoj.ca/user/BMP">
-        <img align="center" alt="Boris's DMOJ" width="66px" src="https://static.dmoj.ca/static/icons/logo.d0dbdf0b98be.svg"/>
+        <img align="center" alt="Boris's DMOJ" width="40px" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4"/>
       </a>
     </th>
   </tr>
