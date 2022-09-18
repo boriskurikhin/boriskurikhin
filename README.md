@@ -6,7 +6,7 @@
       </a>
     </th>
     <th>
-      <a href="https://dmoj.ca/user/BMP">
+      <a href="https://dmoj.ca/user/omaewamoushindeiru">
         <img align="center" alt="Boris's DMOJ" width="40px" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4"/>
       </a>
     </th>
